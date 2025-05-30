@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @kilasuit
+/src/backend/database.py      @kilasuit
+/src/backend/routers/auth.py  @kilasuit
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @kilasuit
